@@ -1,0 +1,135 @@
+.detailContainer {
+  position: fixed;
+  top: 0;
+  background: #fff;
+  z-index: 10000;
+  height: 100vh;
+  width: calc(100% - 100px);
+  overflow: hidden;
+  @media (max-width: 900px) {
+    width: 100%;
+    height: calc(100vh - 70px);
+  }
+}
+
+.backButton {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin: 20px 40px;
+  color: #02182b;
+  opacity: 0.7;
+  transition: 0.3s;
+  background: none;
+  border: none;
+  cursor: pointer;
+  &:hover {
+    opacity: 1;
+  }
+  &:focus {
+    outline: none;
+  }
+  @media (max-width: 900px) {
+    margin: 20px 20px;
+  }
+}
+
+.detailContents {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  @media (max-width: 900px) {
+    flex-direction: column-reverse;
+  }
+}
+
+.posterFrame {
+  max-height: 70%;
+  max-width: 80%;
+  border-radius: 2px;
+  overflow: hidden;
+  box-shadow: -4px 4px 20px 5px rgba(0, 0, 0, 0.65);
+}
+
+.poster {
+  height: 100%;
+  align-self: flex-end;
+}
+
+.movieInfo {
+  box-sizing: border-box;
+  height: 100%;
+  width: 50%;
+  padding: 13vw 40px 0 40px;
+  @media (max-width: 1600px) {
+    padding: 22vw 40px 0 40px;
+  }
+  @media (max-width: 1000px) {
+    padding: 33vw 40px 0 40px;
+  }
+
+  & h1 {
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 6vw;
+    position: relative;
+  }
+
+  & small {
+    font-size: 2.5vw;
+    color: #8e8e8e;
+  }
+
+  & p {
+    font-size: 1.5vw;
+    line-height: 1.3;
+    margin-bottom: 40px;
+    text-align: justify;
+    width: 70%;
+  }
+
+  & span {
+    color: #8e8e8e;
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.1vw;
+  }
+
+  @media (max-width: 900px) {
+    width: 100%;
+    height: 45%;
+    padding: 20px 40px;
+
+    & h1 {
+      font-size: 6em;
+    }
+
+    & small {
+      font-size: 3em;
+    }
+
+    & p {
+      font-size: 2em;
+      width: 100%;
+      margin-bottom: 20px;
+    }
+
+    & span {
+      font-size: 2.6vw;
+    }
+  }
+}
+
+.posterContainer {
+  height: 100%;
+  width: 50%;
+  background: #ffd400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: -4px 4px 10px 2px rgba(0, 0, 0, 0.1);
+  @media (max-width: 900px) {
+    width: 100%;
+    height: 55%;
+  }
+}

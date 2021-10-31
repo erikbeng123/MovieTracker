@@ -1,0 +1,75 @@
+.searchMovies {
+  display: flex;
+  // box-shadow: 4px 4px 5px 1px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  border-radius: 5px;
+  box-sizing: border-box;
+  height: 30vw;
+  position: relative;
+  justify-content: center;
+  flex-direction: column;
+  @media (max-width: 900px) {
+    height: 40vw;
+  }
+  @media (max-width: 650px) {
+    height: 70vw;
+  }
+}
+
+.poster {
+  background-size: cover;
+  height: 80%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.movieData {
+  height: 20%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  & > strong {
+    margin: 10% 0 10px 0;
+    font-size: 1.4em;
+  }
+  & > strong {
+    font-size: 0.9em;
+  }
+}
+
+.addButton {
+  top: 5px;
+  right: 5px;
+  height: 35px;
+  width: 35px;
+  position: absolute;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  opacity: 0.7;
+  background: none;
+  // box-shadow: -1px 1px 3px 0px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  transition: 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &:focus {
+    outline: none;
+  }
+  &:hover {
+    opacity: 1;
+  }
+  &.rated {
+    opacity: 1;
+  }
+  @media (max-width: 650px) {
+    top: 0px;
+    right: 0px;
+  }
+}
+
+.rateButton {
+  @extend .addButton;
+  margin: 10px 0;
+}

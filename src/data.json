@@ -1,0 +1,147 @@
+{
+  "seenMovies": [
+    {
+      "id": "card_movie_4bc89024017a3c122d009d6a",
+      "title": "Monsters, Inc.",
+      "description": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/93Y9BGx8blzmZOPSoivkFfaifqU.jpg",
+      "year": "2001",
+      "rating": 4
+    }
+  ],
+  "searchedMovies": [
+    {
+      "id": "card_movie_4bc893c6017a3c122d010b13",
+      "title": "Cars",
+      "description": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/jpfkzbIXgKZqCZAkEkFH2VYF63s.jpg",
+      "year": "2006"
+    },
+    {
+      "id": "card_movie_545c9770c3a368535d003ade",
+      "title": "Toy Story 4",
+      "description": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "year": "2019"
+    },
+    {
+      "id": "card_movie_50cdfd9c19c2957b79385f6e",
+      "title": "Inside Out",
+      "description": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions— Joy, Fear, Anger, Disgust and Sadness—live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg",
+      "year": "2015"
+    },
+    {
+      "id": "card_movie_4db1e4f25e73d67293000100",
+      "title": "Brave",
+      "description": "Brave is set in the mystical Scottish Highlands, where Mérida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Mérida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Mérida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Mérida’s quest — and serving as comic relief — are the kingdom’s three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/qhABv2d4NZLhsOOA4iBFM4rfuJC.jpg",
+      "year": "2012"
+    },
+    {
+      "id": "card_movie_55d1c092c3a3681bf0009279",
+      "title": "Coco",
+      "description": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg",
+      "year": "2017"
+    },
+    {
+      "id": "card_movie_4bc8ae78017a3c122d05359d",
+      "title": "WALL·E",
+      "description": "WALL·E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL·E thinks he's finally found a friend and stows away on the ship when it leaves.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/9cJETuLMc6R0bTWRA5i7ctY9bxk.jpg",
+      "year": "2008"
+    },
+    {
+      "id": "card_movie_4bc88ace017a3c122d00047a",
+      "title": "Finding Nemo",
+      "description": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/syPWyeeqzTQIxjIUaIFI7d0TyEY.jpg",
+      "year": "2003"
+    },
+    {
+      "id": "card_movie_532d8a1bc3a3685fc3001d57",
+      "title": "Incredibles 2",
+      "description": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "year": "2018"
+    },
+    {
+      "id": "card_movie_4bc8b912017a3c122d06936a",
+      "title": "Up",
+      "description": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/nk11pvocdb5zbFhX5oq5YiLPYMo.jpg",
+      "year": "2009"
+    },
+    {
+      "id": "card_movie_4bc8aa37017a3c122d048fa3",
+      "title": "The Incredibles",
+      "description": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "year": "2004"
+    },
+    {
+      "id": "card_movie_4bc8934b017a3c122d00fb38",
+      "title": "Toy Story",
+      "description": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/rhIRbceoE9lR4veEXuwCC2wARtG.jpg",
+      "year": "1995"
+    },
+    {
+      "id": "card_movie_4fa0f51d760ee336660018bc",
+      "title": "The Good Dinosaur",
+      "description": "An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/2ZckiMTfSkCep2JTtZbr73tnQbN.jpg",
+      "year": "2015"
+    },
+    {
+      "id": "card_movie_4bc8a8b4017a3c122d045acb",
+      "title": "A Bug's Life",
+      "description": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/u9qGMRwcPwP0WETxulS5hKUsEum.jpg",
+      "year": "1998"
+    },
+    {
+      "id": "card_movie_4bc8934d017a3c122d00fb81",
+      "title": "Toy Story 2",
+      "description": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/3CmK3XurcLeUyMifCR28ibzupbB.jpg",
+      "year": "1999"
+    },
+    {
+      "id": "card_movie_50356fb619c29504d5002bd8",
+      "title": "Finding Dory",
+      "description": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/z09QAf8WbZncbitewNk6lKYMZsh.jpg",
+      "year": "2016"
+    },
+    {
+      "id": "card_movie_4bc89840017a3c122d01a2d2",
+      "title": "Ratatouille",
+      "description": "A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely - and certainly unwanted - visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/xVxxSYHAfrEbllyWFQG5df5nwH4.jpg",
+      "year": "2007"
+    },
+    {
+      "id": "card_movie_4bc8ac2d017a3c122d04ee96",
+      "title": "Toy Story 3",
+      "description": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/mMltbSxwEdNE4Cv8QYLpzkHWTDo.jpg",
+      "year": "2010"
+    },
+    {
+      "id": "card_movie_4cd4a8395e73d676cd000073",
+      "title": "Cars 2",
+      "description": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/AblhtULOVtrkSnFxRPQ8gBemxw9.jpg",
+      "year": "2011"
+    },
+    {
+      "id": "card_movie_4db2bd145e73d67a7a000026",
+      "title": "Monsters University",
+      "description": "A look at the relationship between Mike and Sulley during their days at Monsters University — when they weren't necessarily the best of friends.",
+      "poster": "https://image.tmdb.org/t/p/w188_and_h282_bestv2/a05xQU9huY3P5uurLcGGHmsf2Vh.jpg",
+      "year": "2013"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+.container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.buttonItem {
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  margin: 0 12px;
+}
+
+.button {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  border: none;
+  padding: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  &:focus {
+    outline: none;
+  }
+}

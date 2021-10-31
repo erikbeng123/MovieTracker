@@ -1,0 +1,26 @@
+.filterButton {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  width: 70px;
+  font-size: 0.8em;
+  text-align: center;
+  padding: 3px 0;
+  border-radius: 20px;
+  transition: 0.3s;
+  & button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  & button:focus {
+    outline: none;
+  }
+  & span {
+    width: 15px;
+    display: block;
+    margin-top: 3px;
+    transition: 0.3s;
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "movie-tracker",
+  "version": "1.0.0",
+  "description": "Flashcard Front End",
+  "private": true,
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik B",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
+    "@babel/plugin-transform-async-to-generator": "^7.8.3",
+    "@babel/preset-react": "^7.0.0",
+    "@emotion/babel-preset-css-prop": "^10.0.27",
+    "autoprefixer": "^9.6.1",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-plugin-emotion": "^10.0.27",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.3",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.4",
+    "postcss-modules": "^1.4.1",
+    "prettier": "^1.18.2",
+    "sass": "^1.26.3"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.27",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.1.0",
+    "reusable": "^1.0.0-alpha.12"
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ]
+}

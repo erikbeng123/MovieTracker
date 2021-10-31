@@ -1,0 +1,53 @@
+.frown {
+  width: 100%;
+  height: 100%;
+  stroke: rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  &:hover {
+    stroke: rgba(185, 20, 0, 0.3);
+  }
+
+  &.selected {
+    stroke: '#b91400';
+
+    &.hover {
+      stroke: #b91400;
+    }
+  }
+}
+
+.meh {
+  width: 100%;
+  height: 100%;
+  stroke: rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  &:hover {
+    stroke: rgba(255, 213, 79, 0.6);
+  }
+
+  &.selected {
+    stroke: '#ffd54f';
+
+    &.hover {
+      stroke: #ffd54f;
+    }
+  }
+}
+
+.smile {
+  width: 100%;
+  height: 100%;
+  stroke: rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  &:hover {
+    stroke: rgba(102, 187, 106, 0.3);
+  }
+
+  &.selected {
+    stroke: '#66bb6a';
+
+    &.hover {
+      stroke: #66bb6a;
+    }
+  }
+}
